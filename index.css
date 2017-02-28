@@ -27,6 +27,9 @@
     z-index: 100;
   margin-top:25px;
   height:400px;
+ background-attachment: fixed;
+ background-position: center;
+ background-size: cover;
 }
 #first{
   background-image:url('https://static.pexels.com/photos/90807/pexels-photo-90807.jpeg')
